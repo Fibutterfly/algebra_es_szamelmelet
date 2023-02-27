@@ -1,0 +1,9 @@
+- Pelikán elvtárs könyvéből kijegyzetelni
+	- [ ] 6
+	- [ ] 7
+- [ ] gyakorló feladatsorok
+	- [ ] 1
+	- [ ] 2
+- [ ] gyakorló teszt
+	- [ ] 1
+	- [ ] 2

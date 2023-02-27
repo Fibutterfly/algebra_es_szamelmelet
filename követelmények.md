@@ -1,0 +1,6 @@
+- Van egy ZH 50 pontért, aláírás
+- vizsga
+	- 40 elméleti
+	- 30 feladat
+- jegy
+	- $\text{vizsga}+\text{zh}*0.6$
