@@ -1,0 +1,1 @@
+A $G$ (véges) [[csoport]] $x$ és $y$ elemei konjugáltak, ha $y = g^{−1}xg$ valamely $g ∈ G$ elemre. Bizonyítsuk be, hogy a konjugáltság ekvivalenciareláció. Az ekvivalenciaosztályokat $G$ konjugáltosztályainak nevezzük.

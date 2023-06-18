@@ -1,0 +1,1 @@
+Határozzuk meg az elemek rendjét a $C_4, C_6, C_{24}, D_6, D_8, D_{10}$, illetve $S_4$ csoportokban. Mit kapunk a $C_n$, illetve $D_n$ csoportokra tetszőleges $n$ pozitív egész szám esetében?

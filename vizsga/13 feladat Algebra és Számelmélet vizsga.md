@@ -1,0 +1,1 @@
+Legyen $\ell$ baloldali egységelem $A$-ban. Az $a ∈ A$ elem balinverzének nevezzük az $\overline{a}_\ell$ -t, ha $\overline{a}_\ell *a = \ell$  teljesül. Tegyük fel, hogy minden $a ∈ A$ rendelkezik balinverzzel. Bizonyítsuk be, hogy $A$ csoport.

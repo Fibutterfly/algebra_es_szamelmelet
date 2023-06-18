@@ -1,0 +1,1 @@
+Határozza meg az összes $φ: C_6→D_3$ homomorfizmust! Válassza ki az egyik (nem-triviális) homomorfizmust, és mutassa be rajta a homomorfizmus-tételt!

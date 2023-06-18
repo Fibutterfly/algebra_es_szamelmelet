@@ -1,0 +1,1 @@
+Határozza meg az összes $C_6→D_6$ homomorfizmust! Válasszon közülük egy nem-triviális $φ$ homomorfizmust, és mutassa be ezen a példán a homomorfizmus-tételt!

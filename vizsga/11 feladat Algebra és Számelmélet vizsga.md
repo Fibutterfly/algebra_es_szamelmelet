@@ -1,0 +1,1 @@
+Bizonyítsuk be, hogy egy kétváltozós műveletnek legfeljebb egy neutrális eleme lehet.

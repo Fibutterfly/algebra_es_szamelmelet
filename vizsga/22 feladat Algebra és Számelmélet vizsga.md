@@ -1,0 +1,1 @@
+Határozzuk meg a konjugáltosztályokat $S_4$-ben és $A_4$-ben. Mit veszünk észre?

@@ -1,0 +1,1 @@
+Határozzuk meg a $C_4, C_6$ és $C_{24}$ csoportok részcsoportjait. Mik lesznek $C_n$ részcsoportjai tetszőleges $n ∈ \mathbb{N}^+$ esetén?

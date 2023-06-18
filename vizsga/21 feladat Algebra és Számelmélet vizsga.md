@@ -1,0 +1,1 @@
+Bizonyítsuk be, hogy egy konjugáltosztály pontosan akkor egyelemű, ha eleme minden csoportbeli elemmel felcserélhető. Mutassuk meg ennek következményeképp, hogy az egyelemű konjugáltosztályok uniója normálosztó a csoportban.

@@ -1,0 +1,1 @@
+Határozzuk meg egy szabályos tetraéder szimmetriacsoportját! Bizonyítsuk be, hogy izomorf $S_4$-gyel.

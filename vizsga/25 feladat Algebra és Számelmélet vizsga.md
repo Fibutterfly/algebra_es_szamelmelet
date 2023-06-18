@@ -1,0 +1,1 @@
+Legyen $G = S_6, γ = (1, 23)$. Határozzuk meg $C_G(γ)$-t és $γ$ konjugált osztályát.

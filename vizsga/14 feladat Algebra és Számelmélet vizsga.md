@@ -1,0 +1,1 @@
+Legyen $·$ egy asszociatív kétváltozós művelet a $G$ nem-üres halmazon. Tegyük fel, hogy az $a · x = b$ és az $y · a = b$ egyenletek tetszőleges $a, b ∈ G$ esetén megoldhatók. Bizonyítsuk be, hogy $G$ csoport.
