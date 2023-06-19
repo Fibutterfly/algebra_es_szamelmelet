@@ -1,0 +1,1 @@
+Mit nevezünk egy gyűrűben ideálnak? Mutasson rá példát.

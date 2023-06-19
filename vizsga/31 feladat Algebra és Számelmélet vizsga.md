@@ -1,0 +1,1 @@
+Határozzuk meg $S_5$-ben a $τ = (12)$, illetve a $ρ = (12)(34)$ elem centralizátorát.

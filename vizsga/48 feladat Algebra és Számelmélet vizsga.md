@@ -1,0 +1,1 @@
+Mit nevezünk egy csoportbeli elem rendjének?

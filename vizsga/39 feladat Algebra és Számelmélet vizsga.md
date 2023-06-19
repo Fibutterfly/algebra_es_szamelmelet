@@ -1,0 +1,1 @@
+Legyen $R = \mathbb{R}[x]$. Írjuk fel az $x^2 + 1$ által generált $I$ főideál elemeit. Készítsük el a mellékosztályokat. Bizonyítsuk be, hogy $R/I \cong C$.

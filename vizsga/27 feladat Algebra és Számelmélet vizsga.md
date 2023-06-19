@@ -1,0 +1,1 @@
+Határozzuk meg a kocka szimmetriacsoportját! Írjuk le mint $S_6$, illetve mint $S_8$ részcsoportját.

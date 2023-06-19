@@ -1,0 +1,1 @@
+Legyen $G$ az $\mathbb{F}_2$ test fölötti $3×3$-as invertálható felső háromszögmátrixok csoportja. Írjuk föl $G$ elemeit. Hány elemű csoport $G$? Izomorf-e $G$ a $D_4$, illetve $Q_8$ csoportok valamelyikével? Melyikkel?
