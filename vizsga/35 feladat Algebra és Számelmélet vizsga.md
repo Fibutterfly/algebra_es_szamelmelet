@@ -1,4 +1,4 @@
-Legyen $R$ a racionális számpárok halmaza a következő műveletekre nézve:
+Legyen $R$ a racionális számpárok halmaza a következő [[Művelet|műveletekre]] nézve:
 $$\begin{align}
 	(a_1, a_2) + (b_1, b_2) = (a_1 + b_1, a_2 + b_2), \\
 	(a_1, a_2) · (b_1, b_2) = (a_1b_1 + a_2b_2, a_1b_2 + a_2b_1)

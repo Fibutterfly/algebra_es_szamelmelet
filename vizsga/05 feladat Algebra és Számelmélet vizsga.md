@@ -15,7 +15,7 @@ $$\begin{array}{l|cccccccc}
 	k &&&&&&& -1 \\
 	-k
 \end{array}$$
-Nem szükséges leellenőriznie, hogy a fenti szorzás valóban asszociatív, de a kitöltéshez fel kell használnia az asszociativitást (több elemhármasra).
+Nem szükséges leellenőriznie, hogy a fenti [[Művelet|szorzás]] valóban asszociatív, de a kitöltéshez fel kell használnia az asszociativitást (több elemhármasra).
 
 b) Bizonyítsa be, hogy $N = \{ 1, -1 \} \triangleleft Q_8$. Határozza meg a mellékosztályokat, és készítse el a faktor [[csoport]] műveleti tábláját!  
 

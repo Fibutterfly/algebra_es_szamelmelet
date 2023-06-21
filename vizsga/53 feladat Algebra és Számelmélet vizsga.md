@@ -1,3 +1,9 @@
+---
+tags: OE/ALKMAT/Szamelm 
+aliases: []
+TARGET DECK: 02::Algebra
+---
+
 Tekintsük a $G = \left\{ \textbf{A} = \left. \begin{bmatrix} a&b \\ 0&c \end{bmatrix} \right| a, b, c ∈ \mathbb{F}_3, det(\textbf{A}) = 1 \right\}$ halmazt. 
 
 Bizonyítsa be, hogy $G$ csoportot alkot a mátrixszorzásra nézve. 
@@ -20,4 +26,19 @@ Legyen $h = \begin{bmatrix}1&1 \\ 0&1 \end{bmatrix}$ , és tekintsük a $h$ ált
 Megoldás:
 Mivel $h = A_3$, ezért $o(h) = 3$, tehát $|H| = 3$.
 Lévén $[G : H] = 2$, a jobb- és baloldali mellékosztályok nem különbözhetnek, így $H$ normálosztó (hivakozhatunk arra is, hogy az előadáson elhangzott, hogy $2$ indexű részcsoport mindig normálosztó).
-Másképp: Az első részben kiderült, hogy $G = 〈A_4〉$, azaz $6$-odrendű ciklikus csoport, így kommutatív. Így minden részcsoportja normálosztó.
+Másképp: Az első részben kiderült, hogy $G = 〈A_4〉$, azaz $6$-odrendű [[ciklikus csoport]], így kommutatív. Így minden részcsoportja normálosztó.
+
+# kártyák
+START
+Basic
+Front:
+Tekintsük a $G = \left\{ \textbf{A} = \left. \begin{bmatrix} a&b \\ 0&c \end{bmatrix} \right| a, b, c ∈ \mathbb{F}_3, det(\textbf{A}) = 1 \right\}$ halmazt. 
+
+Bizonyítsa be, hogy $G$ csoportot alkot a mátrixszorzásra nézve. 
+
+Hány elemű ez a csoport?
+
+Back:
+Mivel a mátrixszorzás asszociatív, s a fenti halmaz nyilván nem üres, ezért csak a szorzásra és inverzképzésre való zártságot kell bizonyítani. Felső háromszögmátrixok szorzata és inverze is ilyen, a determináns szorzástétele szerint pedig $1$ determinánsú is. A feltétel szerint $ac = 1$, azaz a $a \neq 0$ egyértelműen meghatározza $c$-t, $b$ pedig tetszőlegesen választható. Így $|G| = 2 · 3 = 6$.
+<!--ID: 1687375363544-->
+END
