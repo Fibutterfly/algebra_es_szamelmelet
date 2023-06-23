@@ -12,7 +12,7 @@ TARGET DECK: 02::Algebra
 START
 Basic
 Front:
-Mit nevezünk csoport rendjének?
+Mit nevezünk csoport elemének a rendjének?
 Back:
 A legkisebb pozitív egész $t$, amelyre igaz, hogy $g^t=1$
 - jele: $o(g)=|g|$

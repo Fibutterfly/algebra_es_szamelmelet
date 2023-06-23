@@ -24,6 +24,8 @@ $$G = \left[\begin{array}{c}
 ![[Pasted image 20230622204956.png]]
 
 # szimmetrikus [[csoport]] felbontása transzpozíciókra
+2-es ciklusokba teszem a diszktjunk ciklus elemeit  $n-1$ darab szorzat lesz
+![[Pasted image 20230623160631.png]]
 
 # szimmetrikus csoport elemeinek a rendje
 ciklusonként az elem szám
@@ -87,4 +89,14 @@ szimmetrikus csoport rendje
 Back:
 $o(\sigma)=\text{legkisebb közös többszörös}(\text{ciklusok hossza})$
 <!--ID: 1687466389132-->
+END
+
+START
+Basic
+Front:
+Mit nevezünk a szimmetrikus csoport transzpozíciójának?
+Back:
+2-es ciklusokba teszem a diszktjunk ciklus elemeit $n-1$ darab szorzat lesz
+![[Pasted image 20230623160631.png]]
+<!--ID: 1687529247566-->
 END

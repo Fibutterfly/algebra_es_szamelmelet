@@ -48,7 +48,7 @@ END
 START
 Basic
 Front:
-ciklikus csoport rendje
+ciklikus csoport elemeinek a rendje
 Back:
 - Neki állunk iterálni annak, hogy mikor kapjuk meg az $1$-et
 ![[Pasted image 20230622212600.png]]

@@ -12,7 +12,7 @@ $(1,4,2,9)(3,13,8)(5,10,7,12,6,11)$
 
 c. Írja föl $σ$-t transzpozíciók szorzataként.
 
-d. Határozza meg $σ$ rendjét.
+d. Határozza meg $σ$ [[csoport elem rendje|rendjét]].
 legkisebb közös többszöröse a 4 3 6-nak:
 $2*2$, $3$, $2*3$ ->$2*3*2=12$ 
 
@@ -43,7 +43,7 @@ END
 START
 Basic
 Front:
-Határozza meg $σ$ rendjét. ha
+Határozza meg $σ$ [[csoport rendje|rendjét]]. ha
 $σ$-t diszjunkt ciklusok szorzata
 $(1,4,2,9)(3,13,8)(5,10,7,12,6,11)$
 Back:

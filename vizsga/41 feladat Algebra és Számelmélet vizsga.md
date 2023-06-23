@@ -1,1 +1,0 @@
-Mondja ki a Lagrange-tételt (csoport rendjéről).
