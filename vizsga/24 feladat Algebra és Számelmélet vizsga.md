@@ -4,4 +4,4 @@ Legyen $F$ test $n$ pozitív egész, $G$ pedig az $F$ test feletti $n × n$-es i
 
 (b) Bizonyítsuk be, hogy $G/U \cong T$ . 
 
-(c) Tegyük fel, hogy $|F | = p^a$ ($p$ prím, $a ∈ \mathbb{N}^+$). Határozzuk meg $G, U$ és $T$ rendjét.
+(c) Tegyük fel, hogy $|F | = p^a$ ($p$ prím, $a ∈ \mathbb{N}^+$). Határozzuk meg $G, U$ és $T$ [[csoport elem rendje|rendjét]].

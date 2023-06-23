@@ -2,7 +2,7 @@ Legyen $Q_8 = \{±1, ±i, ±j, ±k\}$, ahol $i^2 = j^2 = k^2 = −1, ij = k, 1$ 
 
 (a) Feltéve, hogy $Q_8$ csoport, vezessük ebből le, hogy $jk = i, ki = j, ji = −k, kj = −i$ és $ik = −j$. (Lássuk be, hogy ekkor $Q_8$ tényleg csoport.)
 
-(b) Határozzuk meg az egyes elemek rendjét.
+(b) Határozzuk meg az egyes elemek [[csoport elem rendje|rendjét]].
 
 (c) Keressük meg $Q_8$ összes részcsoportját. Bizonyítsuk be, hogy mindegyik normálosztó.
 

@@ -10,6 +10,7 @@ TARGET DECK: 02::Algebra
 	- $f$ valahány fokkal lévő forgatás, ahol az $n$ pont önmagába forgatná
 	- $t$ [[Tükrözések|tükrözést]] jelöl
 
+
 # kártyák
 START
 Basic

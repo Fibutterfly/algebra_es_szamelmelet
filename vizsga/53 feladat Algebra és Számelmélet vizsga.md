@@ -39,6 +39,6 @@ Bizonyítsa be, hogy $G$ csoportot alkot a mátrixszorzásra nézve.
 Hány elemű ez a csoport?
 
 Back:
-Mivel a mátrixszorzás asszociatív, s a fenti halmaz nyilván nem üres, ezért csak a szorzásra és inverzképzésre való zártságot kell bizonyítani. Felső háromszögmátrixok szorzata és inverze is ilyen, a determináns szorzástétele szerint pedig $1$ determinánsú is. A feltétel szerint $ac = 1$, azaz a $a \neq 0$ egyértelműen meghatározza $c$-t, $b$ pedig tetszőlegesen választható. Így $|G| = 2 · 3 = 6$.
+Mivel a mátrixszorzás asszociatív, s a fenti halmaz nyilván nem üres, ezért csak a szorzásra és inverzképzésre való zártságot kell bizonyítani. Felső háromszögmátrixok szorzata és inverze is ilyen, a determináns szorzástétele szerint pedig $1$ determinánsú is. A feltétel szerint $ac = 1$, azaz a $a \neq 0$ egyértelműen meghatározza $c$-t, $b$ pedig tetszőlegesen választható. Így $|G| = 3$.
 <!--ID: 1687375363544-->
 END

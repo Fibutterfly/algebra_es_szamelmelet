@@ -1,4 +1,10 @@
-Legyen $G=S_4$, a $4$-edfokú szimmetrikus csoport (amely tehát az $1, 2, 3, 4$ „jegyeket” permutálja). Tekintsük az $1$ jegyet fixáló elemek $H$ halmazát.
+---
+tags: OE/ALKMAT/Szamelm 
+aliases: []
+TARGET DECK: 02::Algebra
+---
+
+Legyen $G=S_4$, a $4$-edfokú [[szimmetrikus csoport]] (amely tehát az $1, 2, 3, 4$ „jegyeket” permutálja). Tekintsük az $1$ jegyet fixáló elemek $H$ halmazát.
 
 (a) Bizonyítsa be, hogy $H$ részcsoport $G$-ben.  
 

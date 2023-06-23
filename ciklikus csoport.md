@@ -10,6 +10,11 @@ TARGET DECK: 02::Algebra
 - szorzás értelmezve rajta: $a^k*a^l = a^{k+l \mod n}$
 - inverze: $a^{-k}=a^{n-k}$
 
+# ciklikus csoport rendje
+- Neki állunk iterálni annak, hogy mikor kapjuk meg az $1$-et
+![[Pasted image 20230622212600.png]]
+- VAGY $o(g^s)= \dfrac{n}{lnko(s,n)}$
+
 # kártyák
 START
 Basic
@@ -38,4 +43,15 @@ ciklikus csoport inverze
 Back:
 $a^{-k}=a^{n-k}$
 <!--ID: 1687375264012-->
+END
+
+START
+Basic
+Front:
+ciklikus csoport rendje
+Back:
+- Neki állunk iterálni annak, hogy mikor kapjuk meg az $1$-et
+![[Pasted image 20230622212600.png]]
+- VAGY $o(g^s)= \dfrac{n}{lnko(s,n)}$
+<!--ID: 1687462716359-->
 END
