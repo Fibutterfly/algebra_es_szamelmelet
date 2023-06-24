@@ -1,1 +1,0 @@
-Határozzuk meg $S_3$ és $S_4$ összes részcsoportját és ezek mellékosztályait.

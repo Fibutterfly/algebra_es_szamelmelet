@@ -17,6 +17,6 @@ $$\begin{array}{l|cccccccc}
 \end{array}$$
 Nem szükséges leellenőriznie, hogy a fenti [[Művelet|szorzás]] valóban asszociatív, de a kitöltéshez fel kell használnia az asszociativitást (több elemhármasra).
 
-b) Bizonyítsa be, hogy $N = \{ 1, -1 \} \triangleleft Q_8$. Határozza meg a mellékosztályokat, és készítse el a faktor [[csoport]] műveleti tábláját!  
+b) Bizonyítsa be, hogy $N = \{ 1, -1 \} \triangleleft Q_8$. Határozza meg a mellékosztályokat, és készítse el a faktor csoport műveleti tábláját!  
 
-(c) Figyelje meg, hogy a kapott faktorcsoport egy Klein-[[csoport]], $N$ egy kételemű [[ciklikus csoport]]. Mutassa meg, hogy $Q_8 \ncong D_4$!
+(c) Figyelje meg, hogy a kapott faktorcsoport egy Klein-csoport, $N$ egy kételemű [[ciklikus csoport]]. Mutassa meg, hogy $Q_8 \ncong D_4$!
