@@ -64,8 +64,12 @@ $b*a=b+a+1$
 tehát kommutatív
 
 [[Művelet|Neutrális elem]], Invertálható minden eleme
-[[Művelet|neutrális elem]]: $-1$
-invertálható: $-2a$
+neutrális elem cél: 
+$n*a=a$ és $a*n=a$
+$a+n+1=a$ és $n+a+1=a$
+neutrális elem -> $-a-1$
+inverz elem:
+$-2-2a$
 
 
 (e) $\{1, 3, 5, 7\}, a ∗ b = ab \mod 8$.
@@ -225,8 +229,12 @@ Front:
 $\mathbb{R}, a ∗ b = a + b + 1$;
 [[Művelet|Neutrális elem]], Invertálható minden eleme
 Back:
-[[Művelet|neutrális elem]]: $-1$
-invertálható: $-2a$
+neutrális elem cél: 
+$n*a=a$ és $a*n=a$
+$a+n+1=a$ és $n+a+1=a$
+neutrális elem -> $-a-1$
+inverz elem:
+$-2-2a$
 <!--ID: 1687300332921-->
 END
 

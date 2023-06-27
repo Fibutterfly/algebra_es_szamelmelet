@@ -8,3 +8,15 @@ TARGET DECK: 02::Algebra
 Olyan [[homomorfizmus]], ami injektív
 tehát igaz ez:
 $$Ker(\phi) = \{ 1_G \}$$
+
+# kártya
+START
+Basic
+Front:
+monomorfizmus
+Back:
+Olyan [[homomorfizmus]], ami injektív
+tehát igaz ez:
+$$Ker(\phi) = \{ 1_G \}$$
+<!--ID: 1687648387211-->
+END

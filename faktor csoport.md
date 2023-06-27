@@ -1,6 +1,6 @@
 ---
 tags: OE/ALKMAT/Szamelm 
-aliases: ["faktor"]
+aliases: ["faktor","faktorcsoport"]
 TARGET DECK: 02::Algebra
 ---
 

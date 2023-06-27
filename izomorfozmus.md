@@ -6,3 +6,13 @@ TARGET DECK: 02::Algebra
 
 # izomorfozmus
 Olyan [[homomorfizmus]], ami egyszerre szürjektív, tehát [[epimorfizmus]] és injektív, tehát [[monomorfizmus]]
+
+# kártya
+START
+Basic
+Front:
+izomorfozmus
+Back:
+Olyan [[homomorfizmus]], ami egyszerre szürjektív, tehát [[epimorfizmus]] és injektív, tehát [[monomorfizmus]]
+<!--ID: 1687648425660-->
+END

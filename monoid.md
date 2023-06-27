@@ -1,6 +1,6 @@
 ---
 tags: OE/ALKMAT/Szamelm 
-aliases: []
+aliases: ["monoidot"]
 TARGET DECK: 02::Algebra
 ---
 # Monoid

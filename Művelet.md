@@ -1,6 +1,6 @@
 ---
 tags: OE/ALKMAT/Szamelm 
-aliases: ["összeadás","műveleti tábla", "eredménytábla","műveleteket","műveletek","műveletekre","műveleti tábláit", "műveleti tábla","neutrális elem","egység elem"]
+aliases: ["összeadás","műveleti tábla", "eredménytábla","műveleteket","műveletek","műveletekre","műveleti tábláit", "műveleti tábla","neutrális elem","egység elem","cayley tábla"]
 TARGET DECK: 02::Algebra
 ---
 # Művelet fogalma
